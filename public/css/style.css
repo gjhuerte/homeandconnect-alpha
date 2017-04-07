@@ -1,0 +1,13 @@
+/* sets the panel shadow */
+.panel-shadow{
+  box-shadow: 0.5px 0.5px 0.5px #888888;
+  border-style: none;
+}
+/* sets background coor for table */
+.table{
+  background-color: #ffffff;
+}
+/* sets the padding for each panel */
+.panel-padding{
+  padding: 10px;
+}
